@@ -1,7 +1,7 @@
 {
   "name": "fast-file-upload",
   "private": false,
-  "version": "0.0.2",
+  "version": "0.0.3",
   "packageManager": "pnpm@8.6.7",
   "description": "大文件分片+webWorker快速上传组件",
   "main": "./dist/index.js",
