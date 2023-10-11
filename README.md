@@ -40,6 +40,7 @@ fastFileUpload('input[type="file"]', {
 
 
 - ChunkInfo 参数
+
 | 属性 | 描述 | 类型 | 是否必填 |
 | ------- | -------| ------- | ------- |
 | start  | 分片开始大小  | number  | 是 |
